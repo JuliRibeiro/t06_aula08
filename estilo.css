@@ -1,0 +1,12 @@
+body{
+    background-color: burlywood;
+}
+
+.div_central{
+    border: 10px solid black;
+}
+
+#div_unica{
+    border: 10px solid blue;
+    text-align: center;
+}
